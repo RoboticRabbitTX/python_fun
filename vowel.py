@@ -12,4 +12,4 @@ for letter in split:
     if letter in vowels:
         counter += 1
 
-print("Number of Vowels: " + str(counter))
+print(f"Number of Vowels: {counter}")
